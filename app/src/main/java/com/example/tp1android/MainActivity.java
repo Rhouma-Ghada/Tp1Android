@@ -17,5 +17,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("qest3", "2");
         Log.d("qest4", "3");
         Log.d("ghada", "23");
+
+        //je vais le mettre dans ma comopte 
     }
 }
